@@ -1,0 +1,14 @@
+{
+  "name": "multimedia-source-addon",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Stremio-compatible MultiMedia source add-on scaffold",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

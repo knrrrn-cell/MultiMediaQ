@@ -1,0 +1,13 @@
+{
+  "sources": [
+    { "id": "dizigom", "name": "Dizigom", "homepage": "https://www.dizigom.icu/", "status": "adapter-needed" },
+    { "id": "dizipal2140", "name": "Dizipal 2140", "homepage": "https://dizipal2140.com/", "status": "adapter-needed" },
+    { "id": "dizipal1590", "name": "Dizipal 1590", "homepage": "https://dizipal1590.com/", "status": "adapter-needed" },
+    { "id": "cizgivedizi", "name": "ÇizgiVeDizi", "homepage": "https://cizgivedizi.net/", "status": "adapter-needed" },
+    { "id": "cizgimax", "name": "ÇizgiMax", "homepage": "https://cizgimax.online/", "status": "adapter-needed" },
+    { "id": "hdfilmcehennemi", "name": "HDFilmCehennemi", "homepage": "https://www.hdfilmcehennemi.nl/", "status": "adapter-needed" },
+    { "id": "hdfilmizle", "name": "HDFilmİzle", "homepage": "https://www.hdfilmizle.live/", "status": "adapter-needed" },
+    { "id": "animecix", "name": "Animecix", "homepage": "https://animecix.tv/", "status": "adapter-needed" },
+    { "id": "anizm", "name": "Anizm", "homepage": "https://anizm.net/", "status": "adapter-needed" }
+  ]
+}
