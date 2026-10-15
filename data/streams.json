@@ -1,0 +1,10 @@
+{
+  "_comment": "Örnek şema. Buraya yalnızca kullanma ve dağıtma izniniz olan doğrudan video URL'lerini ekleyin. Anahtar biçimi: movie:tt1234567 veya series:tt1234567:1:1.",
+  "movie:tt0133093": [
+    {
+      "provider": "Örnek Lisanslı Kaynak",
+      "title": "1080p · Türkçe altyazı",
+      "description": "Demo kayıt — gerçek bir video URL'si eklenmedi"
+    }
+  ]
+}

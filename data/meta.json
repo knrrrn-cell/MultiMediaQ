@@ -1,0 +1,9 @@
+{
+  "_comment": "İsteğe bağlı metadata örneği. Anahtar movie:tt0133093 veya series:tt1234567 olabilir.",
+  "movie:tt0133093": {
+    "id": "tt0133093",
+    "type": "movie",
+    "name": "Örnek film metadata kaydı",
+    "description": "Bu bir örnek kayıttır; gerçek metadata servisi bağlanmadı."
+  }
+}
